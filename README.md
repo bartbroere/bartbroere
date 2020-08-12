@@ -1,4 +1,4 @@
-### Bart Broere
+<h1 style="font-family: "Comic Sans MS", cursive, sans-serif">Bart Broere</p>
 <!--
 
 **bartbroere/bartbroere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
